@@ -2,3 +2,6 @@
 Error 页面
 用于作为小站检修页面
 </font>
+<center>
+<a href="https://skimrme.github.io/error.badservers/">点击访问</a><br>
+</center>
