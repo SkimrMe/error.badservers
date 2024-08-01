@@ -12,5 +12,5 @@ Error 页面
 <div>
 2024.8.2
  <br>
-![3e35d5234e646b971396cfc2b3fd432c](https://github.com/user-attachments/assets/1b05bdff-fbec-4adc-b267-f9035b393976)
+<img src="https://github.com/user-attachments/assets/1b05bdff-fbec-4adc-b267-f9035b393976">
 </div>
