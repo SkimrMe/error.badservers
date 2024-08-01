@@ -4,6 +4,6 @@ Error 页面
 </font>
 <br>
 <br>
-<center>
+<right>
 <a href="https://skimrme.github.io/error.badservers/">点击访问</a><br>
-</center>
+</right>
