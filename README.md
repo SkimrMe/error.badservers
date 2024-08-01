@@ -1,2 +1,1 @@
-# error.badservers.github.io
-badservers.github.io
+<h1>error</h1>
