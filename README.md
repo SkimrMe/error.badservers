@@ -11,5 +11,6 @@ Error 页面
 <h1>img展示</h1>
 <div>
 2024.8.2
- ![3e35d5234e646b971396cfc2b3fd432c](https://github.com/user-attachments/assets/0cc677f6-ae55-4e12-9b4b-12c98b16d3ad)
+ <br>
+![3e35d5234e646b971396cfc2b3fd432c](https://github.com/user-attachments/assets/1b05bdff-fbec-4adc-b267-f9035b393976)
 </div>
