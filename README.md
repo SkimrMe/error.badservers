@@ -1,3 +1,4 @@
+<h1>Error页面</h1>
 <div align="center">
 <font size="6">
 Error 页面
