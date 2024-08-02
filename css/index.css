@@ -1,0 +1,60 @@
+        /* 在这里添加CSS样式 */  
+        .slider {  
+            position: relative;  
+            width: 600px;  
+            margin: auto;  
+            overflow: hidden;  
+        }  
+  
+        .slides img {  
+            width: 100%;  
+            display: none;  
+        }  
+  
+        .slides img:first-child {  
+            display: block;  
+        }  
+  
+        .prev, .next {  
+            cursor: pointer;  
+            position: absolute;  
+            top: 50%;  
+            transform: translateY(-50%);  
+            padding: 16px;  
+            color: white;  
+            font-weight: bold;  
+            font-size: 18px;  
+            transition: 0.6s ease;  
+            border-radius: 0 3px 3px 0;  
+            user-select: none;  
+            background-color: rgba(0, 0, 0, 0.5);  
+        }  
+  
+        .next {  
+            right: 0;  
+            border-radius: 3px 0 0 3px;  
+        }  
+  
+        .prev:hover, .next:hover {  
+            background-color: rgba(0, 0, 0, 0.8);  
+        }  
+
+
+
+
+
+
+        .outer-div {  
+            position: absolute; /* 或者使用 fixed, relative, sticky 等，取决于你的需求 */  
+            top: 1; /* 如果你想让它固定在页面顶部 */  
+            left: 0; /* 根据需要调整 */  
+            width: 100%; /* 示例宽度 */  
+            height: 50px; /* 示例高度 */  
+            z-index: 1000; /* 确保这个值比页面上的其他元素都要高 */  
+        }  
+  
+        /* 如果有其他元素可能重叠，确保它们的z-index低于1000 */  
+        .other-element {  
+            position: relative; /* 或其他非static的position值 */  
+            z-index: 1; /* 低于.outer-div的z-index */  
+        }  
